@@ -1,0 +1,7 @@
+{
+  "name": "Obbash",
+  "description": "AI-powered fitness companion with real-time coaching, visual motivation, and smart progress analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
